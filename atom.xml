@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://myorgmm.github.io/"/>
+  <link href="https://miumiu.github.io/"/>
   <updated>2017-06-16T12:14:11.880Z</updated>
-  <id>http://myorgmm.github.io/</id>
+  <id>https://miumiu.github.io/</id>
   
   <author>
     <name>Minoy</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>旋转字符串</title>
-    <link href="http://myorgmm.github.io/2017/06/16/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
-    <id>http://myorgmm.github.io/2017/06/16/旋转字符串/</id>
+    <link href="https://miumiu.github.io/2017/06/16/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+    <id>https://miumiu.github.io/2017/06/16/旋转字符串/</id>
     <published>2017-06-16T12:09:13.000Z</published>
     <updated>2017-06-16T12:14:11.880Z</updated>
     
@@ -50,19 +50,19 @@
     
     </summary>
     
-      <category term="字符串" scheme="http://myorgmm.github.io/categories/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+      <category term="字符串" scheme="https://miumiu.github.io/categories/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
     
     
-      <category term="字符串" scheme="http://myorgmm.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+      <category term="字符串" scheme="https://miumiu.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
     
-      <category term="C++" scheme="http://myorgmm.github.io/tags/C/"/>
+      <category term="C++" scheme="https://miumiu.github.io/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://myorgmm.github.io/2017/06/16/hello-world/"/>
-    <id>http://myorgmm.github.io/2017/06/16/hello-world/</id>
+    <link href="https://miumiu.github.io/2017/06/16/hello-world/"/>
+    <id>https://miumiu.github.io/2017/06/16/hello-world/</id>
     <published>2017-06-16T08:19:19.792Z</published>
     <updated>2017-06-16T08:19:19.792Z</updated>
     
